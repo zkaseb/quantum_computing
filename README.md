@@ -1,2 +1,2 @@
-# quantum_conputing
+# quantum_computing
 A repository to practice quantum algorithms
